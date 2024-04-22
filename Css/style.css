@@ -23,9 +23,6 @@ body {
             height: 200px;
             border-radius: 50%;
             border: 2px solid blue;
-            position: absolute;
-            top: 20px;
-            right: 5px;
         }
         .container {
             animation: changecolor 3s infinite;
